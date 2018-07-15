@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "152992c0-85d1-4442-86cb-bfa1bdfc5d83",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "相扑饭团背刺刺（原图）": {
+      "ver": "1.0.3",
+      "uuid": "909656fa-0a34-4cc8-b858-3836c9badd79",
+      "rawTextureUuid": "152992c0-85d1-4442-86cb-bfa1bdfc5d83",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 38,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

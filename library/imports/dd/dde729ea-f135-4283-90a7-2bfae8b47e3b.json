@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "相扑饭团正刺刺（原图）",
+    "texture": "c218b587-863d-4b1f-bbdb-11177734046a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      38
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

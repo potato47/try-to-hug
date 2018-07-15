@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "changeturn",
+    "texture": "93479e6f-bd8b-42aa-aadd-ee084a9922e5",
+    "atlas": "",
+    "rect": [
+      121,
+      123,
+      367,
+      120
+    ],
+    "offset": [
+      -15.5,
+      -3
+    ],
+    "originalSize": [
+      640,
+      360
+    ]
+  }
+}

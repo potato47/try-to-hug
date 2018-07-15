@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stage",
+    "texture": "22770df3-32e3-48c4-9853-3f0bba6c9ef8",
+    "atlas": "",
+    "rect": [
+      6,
+      46,
+      628,
+      314
+    ],
+    "offset": [
+      0,
+      -23
+    ],
+    "originalSize": [
+      640,
+      360
+    ]
+  }
+}

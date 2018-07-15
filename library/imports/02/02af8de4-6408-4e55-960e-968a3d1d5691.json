@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "overbg",
+    "texture": "4877b85d-47a3-4ea2-9c0d-86362df48d2d",
+    "atlas": "",
+    "rect": [
+      21,
+      14,
+      477,
+      291
+    ],
+    "offset": [
+      -4.5,
+      13.5
+    ],
+    "originalSize": [
+      528,
+      346
+    ]
+  }
+}

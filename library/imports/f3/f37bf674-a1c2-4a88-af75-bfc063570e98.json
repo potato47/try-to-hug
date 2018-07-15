@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "相扑饭团正站立（原图）",
+    "texture": "c1e4e717-e36f-40d0-a0c9-73703360efe8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      38
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

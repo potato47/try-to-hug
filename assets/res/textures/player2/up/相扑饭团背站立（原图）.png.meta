@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d35e3f40-0a44-46f5-8043-7dc2801f7ce0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "相扑饭团背站立（原图）": {
+      "ver": "1.0.3",
+      "uuid": "813008f1-02e8-4bf5-956e-8d64a44f137d",
+      "rawTextureUuid": "d35e3f40-0a44-46f5-8043-7dc2801f7ce0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 38,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

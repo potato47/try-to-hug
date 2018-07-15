@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "相扑饭团背动作（原图）",
+    "texture": "c1f4e11e-5d64-4f49-8bdf-608de594ddb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      38
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

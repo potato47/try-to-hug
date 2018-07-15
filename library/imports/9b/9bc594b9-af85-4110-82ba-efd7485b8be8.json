@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barriar",
+    "texture": "257ba2e6-a384-48c9-b227-8dcd556d1324",
+    "atlas": "",
+    "rect": [
+      83,
+      86,
+      490,
+      182
+    ],
+    "offset": [
+      8,
+      3
+    ],
+    "originalSize": [
+      640,
+      360
+    ]
+  }
+}

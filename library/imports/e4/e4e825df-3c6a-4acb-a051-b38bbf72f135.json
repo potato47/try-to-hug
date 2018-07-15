@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "相扑饭团侧右刺刺02",
+    "texture": "d04e7b34-c793-4d7f-ba81-6a58fc0f9dae",
+    "atlas": "",
+    "rect": [
+      7,
+      1,
+      28,
+      35
+    ],
+    "offset": [
+      1,
+      1.5
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

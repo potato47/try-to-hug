@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "右侧被抓反应",
+    "texture": "6aa999cd-248d-439b-adcf-63729a1461c4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      38,
+      40
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

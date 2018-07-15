@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "down_hug2",
+    "texture": "f97f02b5-dc81-4a03-8968-caf6cdd1c0ee",
+    "atlas": "",
+    "rect": [
+      3,
+      7,
+      48,
+      38
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      55,
+      50
+    ]
+  }
+}

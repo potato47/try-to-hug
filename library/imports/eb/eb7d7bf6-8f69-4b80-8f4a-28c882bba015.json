@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bloodbg",
+    "texture": "a489bc0f-54e1-4be2-8a59-3ac12b06c2e0",
+    "atlas": "",
+    "rect": [
+      50,
+      27,
+      94,
+      13
+    ],
+    "offset": [
+      16,
+      -9.5
+    ],
+    "originalSize": [
+      162,
+      48
+    ]
+  }
+}

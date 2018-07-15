@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "acce",
+    "texture": "b1532196-4656-4c65-960e-6b811275875e",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      31,
+      31
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      40,
+      40
+    ]
+  }
+}

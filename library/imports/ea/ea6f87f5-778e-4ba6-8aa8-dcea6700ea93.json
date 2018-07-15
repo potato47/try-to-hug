@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "machine3",
+    "texture": "34562f10-5ab2-4556-8222-c5a80e91b8ba",
+    "atlas": "",
+    "rect": [
+      0,
+      33,
+      198,
+      184
+    ],
+    "offset": [
+      -1,
+      -13
+    ],
+    "originalSize": [
+      200,
+      224
+    ]
+  }
+}
